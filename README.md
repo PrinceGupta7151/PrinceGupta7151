@@ -27,25 +27,20 @@
 ## 🚀 Skills  
 
 ### Programming Languages  
-`C` `C++` `C#` `Go` `Java` `JavaScript` `TypeScript` `PHP` `Python` `Ruby` `Rust` `Swift` `Scala` `Perl` `Kotlin`
+`C` `Java` `JavaScript` 
 
 ### Frontend Development  
-`React` `Vue.js` `Angular` `Svelte` `Bootstrap` `Tailwind` `Redux` `HTML5` `CSS3` `GSAP`
+`React` `Tailwind` `HTML` `Css`
 
 ### Backend Development  
-`Node.js` `Express.js` `GraphQL` `NestJS`
+`Node.js` `Express.js` 
 
-### Mobile Development  
-`React Native` `Flutter` `Kotlin`  
 
 ### Database  
-`MongoDB` `MySQL` `PostgreSQL` `Redis` `SQLite`
-
-### DevOps & Cloud  
-`AWS` `Docker` `Kubernetes` `Jenkins` `Azure` `GCP`
+`MongoDB` `MySQL` 
 
 ### Tools & Others  
-`Git` `Linux` `Figma` `Postman` `Photoshop` `Illustrator`  
+`Git` `VScode`
 
 ---
 
@@ -65,7 +60,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-*(This section updates automatically if you connect your blog with GitHub Actions)*  
+
 
 ---
 
