@@ -4,10 +4,10 @@
 ---
 
 ## 💼 Work  
-- 🔭 I’m currently working on [Restaurant Application](project-link)  
+- 🔭 I’m currently working on [Netflix Application](project-link)  
 - 👯 I’m looking to collaborate on [Project Name](project-link)  
 - 🤝 I’m looking for help with [Project Name](project-link)  
-- 🌱 I’m currently learning **Express.js**  
+- 🌱 I’m currently learning **DSA**  
 - 💬 Ask me about **HTML, CSS, JavaScript, React**  
 - 📫 How to reach me: **guptaprince202004@gmail.com**  
 - 👨‍💻 All of my projects are available at [Portfolio](portfolio-link)  
