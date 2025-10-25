@@ -15,7 +15,7 @@
 
 I'm a passionate **MERN Stack Developer** focused on building scalable web applications and solving complex problems. Currently diving deep into Data Structures & Algorithms while working on exciting projects.
 
-- 🔭 Currently building: **[Netflix Clone Application](project-link)**
+- 🔭 Currently building: **[Netflix AI-Augmented Application](https://github.com/PrinceGupta7151/Netflix-AI-Augmented)**
 - 🌱 Learning: **Data Structures & Algorithms**
 - 💡 Interests: Full-stack development, UI/UX design, Open source
 - 💬 Ask me about: **React, Node.js, JavaScript, MongoDB**
@@ -99,7 +99,25 @@ I'm a passionate **MERN Stack Developer** focused on building scalable web appli
 
 ## 📝 Latest Projects
 
-<!-- Add your pinned repositories or featured projects here -->
+<div align="center">
+
+### 🎬 Netflix Clone Application
+
+A full-stack Netflix clone built with the MERN stack, featuring user authentication, movie browsing, and a responsive UI.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS
+
+[![View Project](https://img.shields.io/badge/View_Project-FF0000?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix-ai-augmented-git-main-princegupta7151s-projects.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceGupta7151/Netflix-AI-Augmented)
+
+**Key Features:**
+- 🔐 User Authentication & Authorization
+- 🎥 Browse Movies & TV Shows
+- 🔍 Search Functionality
+- 📱 Fully Responsive Design
+- ⚡ Fast & Optimized Performance
+
+</div>
 
 ---
 
