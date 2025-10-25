@@ -89,8 +89,8 @@ I'm a passionate **MERN Stack Developer** focused on building scalable web appli
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princegupta7151)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-gupta-bbb43924b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/princekumargupta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-guptaa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PrinceKumarGupta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaprince202004@gmail.com)
 
 </div>
@@ -118,15 +118,6 @@ A full-stack Netflix clone built with the MERN stack, featuring user authenticat
 - ⚡ Fast & Optimized Performance
 
 </div>
-
----
-
-## ✍️ Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 **Tip:** Keep this section updated with your latest articles using GitHub Actions!
 
 ---
 
